@@ -1,12 +1,17 @@
 import Link from 'next/link';
-import React from 'react';
+import Head from 'next/head'
 
 const Header = () => {
   return (
     <div>
-      <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous"></link>
-      <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700i,800" rel="stylesheet" />
-      <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous"></link>
+      <Head>
+        <title>Home360</title>
+        <meta name="description" content="virtual reality real estate"></meta>
+        <meta name="viewport" content="initial-scale=1.0, width=device-width" />
+        <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous"></link>
+        <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700i,800" rel="stylesheet" />
+        <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous"></link>
+      </Head>
       <nav className="navbar navbar-expand-lg navbar-dark bg">
         <Link href="/">
           <a className="navbar-brand text-white">Home360</a>

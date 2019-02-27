@@ -23,7 +23,7 @@ export default () => (
           <div className="card-body">
             <h5 className="card-title">Go for 360 view</h5>
             <p className="card-text text-secondary">
-              interactive 3D and VR
+              Interactive 3D and VR
               experiences that feel as real as being there.
             </p>
           </div>

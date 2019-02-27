@@ -17,7 +17,7 @@ export default () => (
         </div>
       </div>
       <div className="d-flex align-items-center col-lg-6">
-        <img className="img-fluid imgg1" style={{height: '400px', width: '100%'}} src="https://www.livemint.com/rf/Image-621x414/LiveMint/Period2/2017/05/09/Photos/Processed/517703860-ka4G--621x414@LiveMint.jpg"/>
+        <img className="img-fluid imgg1" style={{height: '400px', width: '100%'}} src="../static/images/analytics.jpg"/>
       </div>
     </div>
 

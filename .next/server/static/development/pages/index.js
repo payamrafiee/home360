@@ -88,7 +88,7 @@ module.exports =
 /******/
 /******/
 /******/ 	// Load entry module and return exports
-/******/ 	return __webpack_require__(__webpack_require__.s = 3);
+/******/ 	return __webpack_require__(__webpack_require__.s = 4);
 /******/ })
 /************************************************************************/
 /******/ ({
@@ -161,7 +161,7 @@ var _jsxFileName = "/Users/payamrafiee/Desktop/Home360/web/components/Card.js";
       height: '400px',
       width: '100%'
     },
-    src: "https://www.livemint.com/rf/Image-621x414/LiveMint/Period2/2017/05/09/Photos/Processed/517703860-ka4G--621x414@LiveMint.jpg",
+    src: "../static/images/analytics.jpg",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 20
@@ -359,7 +359,7 @@ var Header = function Header() {
   return react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 7
+      lineNumber: 5
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("link", {
@@ -369,27 +369,27 @@ var Header = function Header() {
     crossorigin: "anonymous",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 8
+      lineNumber: 6
     },
     __self: this
   }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "footer d-flex justify-content-center text-center align-items-center",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 9
+      lineNumber: 7
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
     className: "par text-secondary",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 10
+      lineNumber: 8
     },
     __self: this
   }, "Copyright ", date.getFullYear(), " Home360 | Terms of Service")), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("style", {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 12
+      lineNumber: 10
     },
     __self: this
   }, "\n        .footer {\n          background: black;\n          height: 60px;\n          width: 100%;\n        }\n\n        .par {\n          font-size: 12px;\n        }\n      "));
@@ -408,71 +408,102 @@ var Header = function Header() {
 
 "use strict";
 __webpack_require__.r(__webpack_exports__);
-/* harmony import */ var next_link__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! next/link */ "./node_modules/next/link.js");
-/* harmony import */ var next_link__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(next_link__WEBPACK_IMPORTED_MODULE_0__);
-/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! react */ "react");
-/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_1__);
+/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ "react");
+/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
+/* harmony import */ var next_link__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! next/link */ "./node_modules/next/link.js");
+/* harmony import */ var next_link__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(next_link__WEBPACK_IMPORTED_MODULE_1__);
+/* harmony import */ var next_server_head__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! next-server/head */ "next-server/head");
+/* harmony import */ var next_server_head__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(next_server_head__WEBPACK_IMPORTED_MODULE_2__);
 var _jsxFileName = "/Users/payamrafiee/Desktop/Home360/web/components/Header.js";
 
 
 
+
 var Header = function Header() {
-  return react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("div", {
+  return react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     __source: {
       fileName: _jsxFileName,
       lineNumber: 6
     },
     __self: this
-  }, react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("link", {
+  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(next_server_head__WEBPACK_IMPORTED_MODULE_2___default.a, {
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 7
+    },
+    __self: this
+  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("title", {
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 8
+    },
+    __self: this
+  }, "Home360"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("meta", {
+    name: "description",
+    content: "virtual reality real estate",
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 9
+    },
+    __self: this
+  }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("meta", {
+    name: "viewport",
+    content: "initial-scale=1.0, width=device-width",
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 10
+    },
+    __self: this
+  }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("link", {
     rel: "stylesheet",
     href: "https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css",
     integrity: "sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T",
     crossorigin: "anonymous",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 7
+      lineNumber: 11
     },
     __self: this
-  }), react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("link", {
+  }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("link", {
     href: "https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700i,800",
     rel: "stylesheet",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 8
+      lineNumber: 12
     },
     __self: this
-  }), react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("link", {
+  }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("link", {
     rel: "stylesheet",
     href: "https://use.fontawesome.com/releases/v5.7.2/css/all.css",
     integrity: "sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr",
     crossorigin: "anonymous",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 9
+      lineNumber: 13
     },
     __self: this
-  }), react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("nav", {
+  })), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("nav", {
     className: "navbar navbar-expand-lg navbar-dark bg",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 10
+      lineNumber: 15
     },
     __self: this
-  }, react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement(next_link__WEBPACK_IMPORTED_MODULE_0___default.a, {
+  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(next_link__WEBPACK_IMPORTED_MODULE_1___default.a, {
     href: "/",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 11
+      lineNumber: 16
     },
     __self: this
-  }, react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("a", {
+  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
     className: "navbar-brand text-white",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 12
+      lineNumber: 17
     },
     __self: this
-  }, "Home360")), react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("button", {
+  }, "Home360")), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("button", {
     className: "navbar-toggler",
     type: "button",
     "data-toggle": "collapse",
@@ -482,83 +513,83 @@ var Header = function Header() {
     "aria-label": "Toggle navigation",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 14
+      lineNumber: 19
     },
     __self: this
-  }, react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("span", {
+  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("span", {
     className: "navbar-toggler-icon",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 15
+      lineNumber: 20
     },
     __self: this
-  })), react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("div", {
+  })), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "collapse navbar-collapse",
     id: "navbarNavAltMarkup",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 17
+      lineNumber: 22
     },
     __self: this
-  }, react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("div", {
+  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "navbar-nav",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 18
+      lineNumber: 23
     },
     __self: this
-  }, react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement(next_link__WEBPACK_IMPORTED_MODULE_0___default.a, {
+  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(next_link__WEBPACK_IMPORTED_MODULE_1___default.a, {
     href: "/about",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 19
+      lineNumber: 24
     },
     __self: this
-  }, react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("a", {
+  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
     className: "nav-item nav-link",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 20
+      lineNumber: 25
     },
     __self: this
-  }, "About", react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("span", {
+  }, "About", react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("span", {
     className: "sr-only",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 20
+      lineNumber: 25
     },
     __self: this
-  }, "(current)")))))), react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("script", {
+  }, "(current)")))))), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("script", {
     src: "https://code.jquery.com/jquery-3.3.1.slim.min.js",
     integrity: "sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo",
     crossorigin: "anonymous",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 26
+      lineNumber: 31
     },
     __self: this
-  }), react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("script", {
+  }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("script", {
     src: "https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js",
     integrity: "sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49",
     crossorigin: "anonymous",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 28
+      lineNumber: 33
     },
     __self: this
-  }), react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("script", {
+  }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("script", {
     src: "https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js",
     integrity: "sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy",
     crossorigin: "anonymous",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 30
+      lineNumber: 35
     },
     __self: this
-  }), react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("style", {
+  }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("style", {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 32
+      lineNumber: 37
     },
     __self: this
   }, "\n        .bg {\n          background: black;\n        }\n      "));
@@ -699,7 +730,7 @@ var _jsxFileName = "/Users/payamrafiee/Desktop/Home360/web/components/Timeline.j
       lineNumber: 25
     },
     __self: this
-  }, "interactive 3D and VR experiences that feel as real as being there."))), react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("div", {
+  }, "Interactive 3D and VR experiences that feel as real as being there."))), react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("div", {
     style: {
       width: '250px'
     },
@@ -768,7 +799,7 @@ var _jsxFileName = "/Users/payamrafiee/Desktop/Home360/web/components/Timeline.j
   }, "4"))), react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement(styled_jsx_style__WEBPACK_IMPORTED_MODULE_0___default.a, {
     id: "2685640748",
     __self: this
-  }, ".circle.jsx-2685640748{height:40px;width:40px;border-radius:50%;background:white;border:1px solid black;}hr.jsx-2685640748{-moz-border-bottom-colors:none;-moz-border-image:none;-moz-border-left-colors:none;-moz-border-right-colors:none;-moz-border-top-colors:none;border-color:#EEEEEE -moz-use-text-color #FFFFFF;border-style:solid none;border-width:1px 0;margin:0px 0;}\n/*# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIi9Vc2Vycy9wYXlhbXJhZmllZS9EZXNrdG9wL0hvbWUzNjAvd2ViL2NvbXBvbmVudHMvVGltZWxpbmUuanMiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBc0RnQixBQUdxQixBQVNtQixZQVJwQixXQUNPLFFBUUssVUFQTixhQVFZLElBUE4sdUJBQ3pCLEVBT2dDLDhCQUNGLDRCQUNxQixpREFDekIsd0JBQ0wsbUJBQ04sYUFDZiIsImZpbGUiOiIvVXNlcnMvcGF5YW1yYWZpZWUvRGVza3RvcC9Ib21lMzYwL3dlYi9jb21wb25lbnRzL1RpbWVsaW5lLmpzIiwic291cmNlc0NvbnRlbnQiOlsiZXhwb3J0IGRlZmF1bHQgKCkgPT4gKFxuICA8c2VjdGlvbj5cbiAgICA8ZGl2ID5cbiAgICAgIDxkaXYgY2xhc3NOYW1lPVwicm93IGp1c3RpZnktY29udGVudC1hcm91bmRcIj5cbiAgICAgICAgPGRpdiBjbGFzc05hbWU9XCJjYXJkIG15LTNcIiBzdHlsZT17e3dpZHRoOiAnMjUwcHgnfX0+XG4gICAgICAgICAgPGRpdiBjbGFzc05hbWU9XCJjYXJkLWJvZHlcIj5cbiAgICAgICAgICAgIDxoNSBjbGFzc05hbWU9XCJjYXJkLXRpdGxlXCI+RW50ZXIgYSB6aXBjb2RlPC9oNT5cbiAgICAgICAgICAgIDxwIGNsYXNzTmFtZT1cImNhcmQtdGV4dCB0ZXh0LXNlY29uZGFyeVwiPlxuICAgICAgICAgICAgICBFbnRlciBhIHppcCBjb2RlIG9yIGEgY2l0eVxuICAgICAgICAgICAgPC9wPlxuICAgICAgICAgIDwvZGl2PlxuICAgICAgICA8L2Rpdj5cbiAgICAgICAgPGRpdiBjbGFzc05hbWU9XCJjYXJkIG15LTNcIiBzdHlsZT17e3dpZHRoOiAnMjUwcHgnfX0+XG4gICAgICAgICAgPGRpdiBjbGFzc05hbWU9XCJjYXJkLWJvZHlcIj5cbiAgICAgICAgICAgIDxoNSBjbGFzc05hbWU9XCJjYXJkLXRpdGxlXCI+UGljayBhIEhvdXNlPC9oNT5cbiAgICAgICAgICAgIDxwIGNsYXNzTmFtZT1cImNhcmQtdGV4dCB0ZXh0LXNlY29uZGFyeVwiPlxuICAgICAgICAgICAgICBCeSBwcm92aWRpbmcgYSB3aWRlIHJhbmdlIG9mIGFuYWx5dGljcyBhbmQgZmlsdGVyaW5nLFxuICAgICAgICAgICAgICBZb3UgY2FuIHBpY2sgeW91ciBpZGVhbCBob3VzZSBpbiBhIGZyYWN0aW9uLlxuICAgICAgICAgICAgPC9wPlxuICAgICAgICAgIDwvZGl2PlxuICAgICAgICA8L2Rpdj5cbiAgICAgICAgPGRpdiBjbGFzc05hbWU9XCJjYXJkIG15LTNcIiBzdHlsZT17e3dpZHRoOiAnMjUwcHgnfX0+XG4gICAgICAgICAgPGRpdiBjbGFzc05hbWU9XCJjYXJkLWJvZHlcIj5cbiAgICAgICAgICAgIDxoNSBjbGFzc05hbWU9XCJjYXJkLXRpdGxlXCI+R28gZm9yIDM2MCB2aWV3PC9oNT5cbiAgICAgICAgICAgIDxwIGNsYXNzTmFtZT1cImNhcmQtdGV4dCB0ZXh0LXNlY29uZGFyeVwiPlxuICAgICAgICAgICAgICBpbnRlcmFjdGl2ZSAzRCBhbmQgVlJcbiAgICAgICAgICAgICAgZXhwZXJpZW5jZXMgdGhhdCBmZWVsIGFzIHJlYWwgYXMgYmVpbmcgdGhlcmUuXG4gICAgICAgICAgICA8L3A+XG4gICAgICAgICAgPC9kaXY+XG4gICAgICAgIDwvZGl2PlxuICAgICAgICA8ZGl2IGNsYXNzTmFtZT1cImNhcmQgbXktM1wiIHN0eWxlPXt7d2lkdGg6ICcyNTBweCd9fT5cbiAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT1cImNhcmQtYm9keVwiPlxuICAgICAgICAgICAgPGg1IGNsYXNzTmFtZT1cImNhcmQtdGl0bGVcIj5NYWtlIGEgY2FsbDwvaDU+XG4gICAgICAgICAgICA8cCBjbGFzc05hbWU9XCJjYXJkLXRleHQgdGV4dC1zZWNvbmRhcnlcIj5cbiAgICAgICAgICAgICAgVGhhdHMgaXQuXG4gICAgICAgICAgICA8L3A+XG4gICAgICAgICAgPC9kaXY+XG4gICAgICAgIDwvZGl2PlxuICAgICAgPC9kaXY+XG4gICAgICA8ZGl2IGNsYXNzTmFtZT1cInJvdyBqdXN0aWZ5LWNvbnRlbnQtYXJvdW5kXCI+XG4gICAgICAgIDxkaXYgY2xhc3NOYW1lPVwiZC1mbGV4IHRleHQtYmxhY2sgYWxpZ24taXRlbXMtY2VudGVyIGp1c3RpZnktY29udGVudC1jZW50ZXIgY2lyY2xlXCI+XG4gICAgICAgICAgMVxuICAgICAgICA8L2Rpdj5cbiAgICAgICAgPGRpdiBjbGFzc05hbWU9XCJkLWZsZXggdGV4dC1ibGFjayBhbGlnbi1pdGVtcy1jZW50ZXIganVzdGlmeS1jb250ZW50LWNlbnRlciBjaXJjbGVcIj5cbiAgICAgICAgICAyXG4gICAgICAgIDwvZGl2PlxuICAgICAgICA8ZGl2IGNsYXNzTmFtZT1cImQtZmxleCB0ZXh0LWJsYWNrIGFsaWduLWl0ZW1zLWNlbnRlciBqdXN0aWZ5LWNvbnRlbnQtY2VudGVyIGNpcmNsZVwiPlxuICAgICAgICAgIDNcbiAgICAgICAgPC9kaXY+XG4gICAgICAgIDxkaXYgY2xhc3NOYW1lPVwiZC1mbGV4IHRleHQtYmxhY2sgYWxpZ24taXRlbXMtY2VudGVyIGp1c3RpZnktY29udGVudC1jZW50ZXIgY2lyY2xlXCI+XG4gICAgICAgICAgNFxuICAgICAgICA8L2Rpdj5cbiAgICAgIDwvZGl2PlxuICAgIDwvZGl2PlxuICAgIDxzdHlsZSBqc3g+e2BcbiAgICAgIC5jaXJjbGUge1xuICAgICAgICBoZWlnaHQ6IDQwcHg7XG4gICAgICAgIHdpZHRoOiA0MHB4O1xuICAgICAgICBib3JkZXItcmFkaXVzOiA1MCU7XG4gICAgICAgIGJhY2tncm91bmQ6IHdoaXRlO1xuICAgICAgICBib3JkZXI6IDFweCBzb2xpZCBibGFjaztcbiAgICAgIH1cblxuXG4gICAgICBociB7XG4gICAgICAgIC1tb3otYm9yZGVyLWJvdHRvbS1jb2xvcnM6IG5vbmU7XG4gICAgICAgIC1tb3otYm9yZGVyLWltYWdlOiBub25lO1xuICAgICAgICAtbW96LWJvcmRlci1sZWZ0LWNvbG9yczogbm9uZTtcbiAgICAgICAgLW1vei1ib3JkZXItcmlnaHQtY29sb3JzOiBub25lO1xuICAgICAgICAtbW96LWJvcmRlci10b3AtY29sb3JzOiBub25lO1xuICAgICAgICBib3JkZXItY29sb3I6ICNFRUVFRUUgLW1vei11c2UtdGV4dC1jb2xvciAjRkZGRkZGO1xuICAgICAgICBib3JkZXItc3R5bGU6IHNvbGlkIG5vbmU7XG4gICAgICAgIGJvcmRlci13aWR0aDogMXB4IDA7XG4gICAgICAgIG1hcmdpbjogMHB4IDA7XG4gICAgICB9XG4gICAgYH08L3N0eWxlPlxuICA8L3NlY3Rpb24+XG4pXG4iXX0= */\n/*@ sourceURL=/Users/payamrafiee/Desktop/Home360/web/components/Timeline.js */"));
+  }, ".circle.jsx-2685640748{height:40px;width:40px;border-radius:50%;background:white;border:1px solid black;}hr.jsx-2685640748{-moz-border-bottom-colors:none;-moz-border-image:none;-moz-border-left-colors:none;-moz-border-right-colors:none;-moz-border-top-colors:none;border-color:#EEEEEE -moz-use-text-color #FFFFFF;border-style:solid none;border-width:1px 0;margin:0px 0;}\n/*# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIi9Vc2Vycy9wYXlhbXJhZmllZS9EZXNrdG9wL0hvbWUzNjAvd2ViL2NvbXBvbmVudHMvVGltZWxpbmUuanMiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBc0RnQixBQUdxQixBQVNtQixZQVJwQixXQUNPLFFBUUssVUFQTixhQVFZLElBUE4sdUJBQ3pCLEVBT2dDLDhCQUNGLDRCQUNxQixpREFDekIsd0JBQ0wsbUJBQ04sYUFDZiIsImZpbGUiOiIvVXNlcnMvcGF5YW1yYWZpZWUvRGVza3RvcC9Ib21lMzYwL3dlYi9jb21wb25lbnRzL1RpbWVsaW5lLmpzIiwic291cmNlc0NvbnRlbnQiOlsiZXhwb3J0IGRlZmF1bHQgKCkgPT4gKFxuICA8c2VjdGlvbj5cbiAgICA8ZGl2ID5cbiAgICAgIDxkaXYgY2xhc3NOYW1lPVwicm93IGp1c3RpZnktY29udGVudC1hcm91bmRcIj5cbiAgICAgICAgPGRpdiBjbGFzc05hbWU9XCJjYXJkIG15LTNcIiBzdHlsZT17e3dpZHRoOiAnMjUwcHgnfX0+XG4gICAgICAgICAgPGRpdiBjbGFzc05hbWU9XCJjYXJkLWJvZHlcIj5cbiAgICAgICAgICAgIDxoNSBjbGFzc05hbWU9XCJjYXJkLXRpdGxlXCI+RW50ZXIgYSB6aXBjb2RlPC9oNT5cbiAgICAgICAgICAgIDxwIGNsYXNzTmFtZT1cImNhcmQtdGV4dCB0ZXh0LXNlY29uZGFyeVwiPlxuICAgICAgICAgICAgICBFbnRlciBhIHppcCBjb2RlIG9yIGEgY2l0eVxuICAgICAgICAgICAgPC9wPlxuICAgICAgICAgIDwvZGl2PlxuICAgICAgICA8L2Rpdj5cbiAgICAgICAgPGRpdiBjbGFzc05hbWU9XCJjYXJkIG15LTNcIiBzdHlsZT17e3dpZHRoOiAnMjUwcHgnfX0+XG4gICAgICAgICAgPGRpdiBjbGFzc05hbWU9XCJjYXJkLWJvZHlcIj5cbiAgICAgICAgICAgIDxoNSBjbGFzc05hbWU9XCJjYXJkLXRpdGxlXCI+UGljayBhIEhvdXNlPC9oNT5cbiAgICAgICAgICAgIDxwIGNsYXNzTmFtZT1cImNhcmQtdGV4dCB0ZXh0LXNlY29uZGFyeVwiPlxuICAgICAgICAgICAgICBCeSBwcm92aWRpbmcgYSB3aWRlIHJhbmdlIG9mIGFuYWx5dGljcyBhbmQgZmlsdGVyaW5nLFxuICAgICAgICAgICAgICBZb3UgY2FuIHBpY2sgeW91ciBpZGVhbCBob3VzZSBpbiBhIGZyYWN0aW9uLlxuICAgICAgICAgICAgPC9wPlxuICAgICAgICAgIDwvZGl2PlxuICAgICAgICA8L2Rpdj5cbiAgICAgICAgPGRpdiBjbGFzc05hbWU9XCJjYXJkIG15LTNcIiBzdHlsZT17e3dpZHRoOiAnMjUwcHgnfX0+XG4gICAgICAgICAgPGRpdiBjbGFzc05hbWU9XCJjYXJkLWJvZHlcIj5cbiAgICAgICAgICAgIDxoNSBjbGFzc05hbWU9XCJjYXJkLXRpdGxlXCI+R28gZm9yIDM2MCB2aWV3PC9oNT5cbiAgICAgICAgICAgIDxwIGNsYXNzTmFtZT1cImNhcmQtdGV4dCB0ZXh0LXNlY29uZGFyeVwiPlxuICAgICAgICAgICAgICBJbnRlcmFjdGl2ZSAzRCBhbmQgVlJcbiAgICAgICAgICAgICAgZXhwZXJpZW5jZXMgdGhhdCBmZWVsIGFzIHJlYWwgYXMgYmVpbmcgdGhlcmUuXG4gICAgICAgICAgICA8L3A+XG4gICAgICAgICAgPC9kaXY+XG4gICAgICAgIDwvZGl2PlxuICAgICAgICA8ZGl2IGNsYXNzTmFtZT1cImNhcmQgbXktM1wiIHN0eWxlPXt7d2lkdGg6ICcyNTBweCd9fT5cbiAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT1cImNhcmQtYm9keVwiPlxuICAgICAgICAgICAgPGg1IGNsYXNzTmFtZT1cImNhcmQtdGl0bGVcIj5NYWtlIGEgY2FsbDwvaDU+XG4gICAgICAgICAgICA8cCBjbGFzc05hbWU9XCJjYXJkLXRleHQgdGV4dC1zZWNvbmRhcnlcIj5cbiAgICAgICAgICAgICAgVGhhdHMgaXQuXG4gICAgICAgICAgICA8L3A+XG4gICAgICAgICAgPC9kaXY+XG4gICAgICAgIDwvZGl2PlxuICAgICAgPC9kaXY+XG4gICAgICA8ZGl2IGNsYXNzTmFtZT1cInJvdyBqdXN0aWZ5LWNvbnRlbnQtYXJvdW5kXCI+XG4gICAgICAgIDxkaXYgY2xhc3NOYW1lPVwiZC1mbGV4IHRleHQtYmxhY2sgYWxpZ24taXRlbXMtY2VudGVyIGp1c3RpZnktY29udGVudC1jZW50ZXIgY2lyY2xlXCI+XG4gICAgICAgICAgMVxuICAgICAgICA8L2Rpdj5cbiAgICAgICAgPGRpdiBjbGFzc05hbWU9XCJkLWZsZXggdGV4dC1ibGFjayBhbGlnbi1pdGVtcy1jZW50ZXIganVzdGlmeS1jb250ZW50LWNlbnRlciBjaXJjbGVcIj5cbiAgICAgICAgICAyXG4gICAgICAgIDwvZGl2PlxuICAgICAgICA8ZGl2IGNsYXNzTmFtZT1cImQtZmxleCB0ZXh0LWJsYWNrIGFsaWduLWl0ZW1zLWNlbnRlciBqdXN0aWZ5LWNvbnRlbnQtY2VudGVyIGNpcmNsZVwiPlxuICAgICAgICAgIDNcbiAgICAgICAgPC9kaXY+XG4gICAgICAgIDxkaXYgY2xhc3NOYW1lPVwiZC1mbGV4IHRleHQtYmxhY2sgYWxpZ24taXRlbXMtY2VudGVyIGp1c3RpZnktY29udGVudC1jZW50ZXIgY2lyY2xlXCI+XG4gICAgICAgICAgNFxuICAgICAgICA8L2Rpdj5cbiAgICAgIDwvZGl2PlxuICAgIDwvZGl2PlxuICAgIDxzdHlsZSBqc3g+e2BcbiAgICAgIC5jaXJjbGUge1xuICAgICAgICBoZWlnaHQ6IDQwcHg7XG4gICAgICAgIHdpZHRoOiA0MHB4O1xuICAgICAgICBib3JkZXItcmFkaXVzOiA1MCU7XG4gICAgICAgIGJhY2tncm91bmQ6IHdoaXRlO1xuICAgICAgICBib3JkZXI6IDFweCBzb2xpZCBibGFjaztcbiAgICAgIH1cblxuXG4gICAgICBociB7XG4gICAgICAgIC1tb3otYm9yZGVyLWJvdHRvbS1jb2xvcnM6IG5vbmU7XG4gICAgICAgIC1tb3otYm9yZGVyLWltYWdlOiBub25lO1xuICAgICAgICAtbW96LWJvcmRlci1sZWZ0LWNvbG9yczogbm9uZTtcbiAgICAgICAgLW1vei1ib3JkZXItcmlnaHQtY29sb3JzOiBub25lO1xuICAgICAgICAtbW96LWJvcmRlci10b3AtY29sb3JzOiBub25lO1xuICAgICAgICBib3JkZXItY29sb3I6ICNFRUVFRUUgLW1vei11c2UtdGV4dC1jb2xvciAjRkZGRkZGO1xuICAgICAgICBib3JkZXItc3R5bGU6IHNvbGlkIG5vbmU7XG4gICAgICAgIGJvcmRlci13aWR0aDogMXB4IDA7XG4gICAgICAgIG1hcmdpbjogMHB4IDA7XG4gICAgICB9XG4gICAgYH08L3N0eWxlPlxuICA8L3NlY3Rpb24+XG4pXG4iXX0= */\n/*@ sourceURL=/Users/payamrafiee/Desktop/Home360/web/components/Timeline.js */"));
 });
 
 /***/ }),
@@ -2887,7 +2918,7 @@ function (_Component) {
 
 /***/ }),
 
-/***/ 3:
+/***/ 4:
 /*!******************************!*\
   !*** multi ./pages/index.js ***!
   \******************************/
@@ -3017,6 +3048,17 @@ module.exports = require("next-server/dist/lib/router/router");
 /***/ (function(module, exports) {
 
 module.exports = require("next-server/dist/lib/utils");
+
+/***/ }),
+
+/***/ "next-server/head":
+/*!***********************************!*\
+  !*** external "next-server/head" ***!
+  \***********************************/
+/*! no static exports found */
+/***/ (function(module, exports) {
+
+module.exports = require("next-server/head");
 
 /***/ }),
 
