@@ -9,7 +9,7 @@ const Header = () => {
       <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous"></link>
       <nav className="navbar navbar-expand-lg navbar-dark bg">
         <Link href="/">
-          <a className="navbar-brand text-info">Home360</a>
+          <a className="navbar-brand text-white">Home360</a>
         </Link>
         <button className="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
           <span className="navbar-toggler-icon"></span>
@@ -18,9 +18,6 @@ const Header = () => {
           <div className="navbar-nav">
             <Link href="/about">
               <a className="nav-item nav-link">About<span className="sr-only">(current)</span></a>
-            </Link>
-            <Link href="contactus">
-              <a className="nav-item nav-link">Contact us</a>
             </Link>
           </div>
         </div>
