@@ -1,5 +1,281 @@
 ((window["webpackJsonp"] = window["webpackJsonp"] || []).push([["static/development/pages/index.js"],{
 
+/***/ "./components/Benefits.js":
+/*!********************************!*\
+  !*** ./components/Benefits.js ***!
+  \********************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var styled_jsx_style__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! styled-jsx/style */ "./node_modules/styled-jsx/style.js");
+/* harmony import */ var styled_jsx_style__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(styled_jsx_style__WEBPACK_IMPORTED_MODULE_0__);
+/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! react */ "./node_modules/react/index.js");
+/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_1__);
+var _jsxFileName = "/Users/payamrafiee/Desktop/Home360/web/components/Benefits.js";
+
+
+/* harmony default export */ __webpack_exports__["default"] = (function () {
+  return react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("section", {
+    className: "jsx-2952640602",
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 2
+    },
+    __self: this
+  }, react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("div", {
+    className: "jsx-2952640602" + " " + "row d-flex justify-content-around",
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 3
+    },
+    __self: this
+  }, react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("div", {
+    className: "jsx-2952640602" + " " + "item bg-white d-flex flex-column text-black",
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 4
+    },
+    __self: this
+  }, react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("i", {
+    class: "fas fa-clock fa-3x text-dark text-center",
+    className: "jsx-2952640602",
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 5
+    },
+    __self: this
+  }), react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("div", {
+    className: "jsx-2952640602",
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 6
+    },
+    __self: this
+  }, react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("h5", {
+    className: "jsx-2952640602" + " " + "py-4",
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 7
+    },
+    __self: this
+  }, "Save time"), react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("p", {
+    className: "jsx-2952640602" + " " + "text-secondary",
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 10
+    },
+    __self: this
+  }, "This is probably the biggest benefit \u2013 virtual reality solutions save time for both clients and realtors. Thanks to VR, there\u2019s no need to travel from one property to another and sit in traffic jams. Instead, clients can simply put on VR headsets and enjoy immersive 3D tours."), react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("p", {
+    className: "jsx-2952640602" + " " + "text-secondary",
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 19
+    },
+    __self: this
+  }, "Moreover, the use of virtual reality in real estate means that all listed properties are open around the clock. With the help of VR headsets, homebuyers can visit houses and apartments literally any time, without realtors needing to spend a second of their time."))), react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("div", {
+    className: "jsx-2952640602" + " " + "item bg-white d-flex flex-column text-black",
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 28
+    },
+    __self: this
+  }, react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("i", {
+    class: "fas fa-smile fa-3x text-dark text-center",
+    className: "jsx-2952640602",
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 29
+    },
+    __self: this
+  }), react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("div", {
+    className: "jsx-2952640602",
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 30
+    },
+    __self: this
+  }, react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("h5", {
+    className: "jsx-2952640602" + " " + "py-4",
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 31
+    },
+    __self: this
+  }, "Builds Emotional Connections"), react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("p", {
+    className: "jsx-2952640602" + " " + "text-secondary",
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 34
+    },
+    __self: this
+  }, "Virtual tours of houses and apartments help your clients visualize each property. Unlike traditional visits when everyone is in a hurry, potential buyers can take VR home tours at a time that\u2019s convenient and can focus their attention on details."), react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("p", {
+    className: "jsx-2952640602" + " " + "text-secondary",
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 42
+    },
+    __self: this
+  }, "Full immersiveness of virtual house tours creates an emotional connection and engages clients a lot more efficiently than conventional 2D images, which may look quite a bit different from how a property looks in person."))), react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("div", {
+    className: "jsx-2952640602" + " " + "item bg-white d-flex flex-column text-black",
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 52
+    },
+    __self: this
+  }, react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("i", {
+    class: "fas fa-chart-area fa-3x text-dark text-center",
+    className: "jsx-2952640602",
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 53
+    },
+    __self: this
+  }), react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("div", {
+    className: "jsx-2952640602",
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 54
+    },
+    __self: this
+  }, react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("h5", {
+    className: "jsx-2952640602" + " " + "py-4",
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 55
+    },
+    __self: this
+  }, "Prediction"), react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("p", {
+    className: "jsx-2952640602" + " " + "text-secondary",
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 58
+    },
+    __self: this
+  }, "With the data given to AI, it can provide with meaningful predictions involving customer priority. For example, it can predict what is going to be the price of an area based on the geographical area and based on future development or physical changes that the area might go through. It can also predict what area is more prone to theft or other crimes since it is an important aspect for anyone to consider while buying or renting a home."))), react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("div", {
+    className: "jsx-2952640602" + " " + "item bg-white d-flex flex-column text-black",
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 72
+    },
+    __self: this
+  }, react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("i", {
+    class: "fas fa-globe-americas fa-3x text-dark text-center",
+    className: "jsx-2952640602",
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 73
+    },
+    __self: this
+  }), react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("div", {
+    className: "jsx-2952640602",
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 74
+    },
+    __self: this
+  }, react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("h5", {
+    className: "jsx-2952640602" + " " + "py-4",
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 75
+    },
+    __self: this
+  }, "Offers Global Reach"), react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("p", {
+    className: "jsx-2952640602" + " " + "text-secondary",
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 78
+    },
+    __self: this
+  }, "Virtual reality can change this. Since most properties can be shown through virtual tours, realtors can work more productively. Also, it doesn\u2019t matter where your clients live. VR helps you showcase properties even to long-distance buyers. Of course, this means you can work with more clients and process more inquiries."))), react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("div", {
+    className: "jsx-2952640602" + " " + "item bg-white d-flex flex-column text-black",
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 88
+    },
+    __self: this
+  }, react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("i", {
+    class: "fas fa-hand-holding-usd fa-3x text-dark text-center",
+    className: "jsx-2952640602",
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 89
+    },
+    __self: this
+  }), react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("div", {
+    className: "jsx-2952640602",
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 90
+    },
+    __self: this
+  }, react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("h5", {
+    className: "jsx-2952640602" + " " + "py-4",
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 91
+    },
+    __self: this
+  }, "Saves Money"), react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("p", {
+    className: "jsx-2952640602" + " " + "text-secondary",
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 94
+    },
+    __self: this
+  }, "Developing feature-rich 3D virtual tours may seem expensive, but think of the investment in traditional real estate marketing. Not only do you need to stage properties, you also need to provide high-quality pictures and lots of print materials (particularly for new properties)."), react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("p", {
+    className: "jsx-2952640602" + " " + "text-secondary",
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 102
+    },
+    __self: this
+  }, "Virtual reality helps you save a lot of money by using the power of 360-degree videos and computer graphics. Today, making a guided video tour around a property requires just a panoramic camera and basic rendering."))), react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("div", {
+    className: "jsx-2952640602" + " " + "item bg-white d-flex flex-column text-black",
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 111
+    },
+    __self: this
+  }, react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("i", {
+    class: "fas fa-key fa-3x text-dark text-center",
+    className: "jsx-2952640602",
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 112
+    },
+    __self: this
+  }), react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("div", {
+    className: "jsx-2952640602",
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 113
+    },
+    __self: this
+  }, react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("h5", {
+    className: "jsx-2952640602" + " " + "py-4",
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 114
+    },
+    __self: this
+  }, "Instant Sense of Ownership"), react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("p", {
+    className: "jsx-2952640602" + " " + "text-secondary",
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 117
+    },
+    __self: this
+  }, "You can enhance the customer experience by providing virtual tours with lots of interactive add-ons such as mortgage calculators, information about similar properties, and descriptions of neighborhoods. This will help your clients get all the information they need about properties before contacting you and asking to arrange real visits of houses or apartments they like most.")))), react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement(styled_jsx_style__WEBPACK_IMPORTED_MODULE_0___default.a, {
+    id: "2952640602",
+    __self: this
+  }, ".item.jsx-2952640602{height:500px;width:370px;margin:5px;padding:20px;box-shadow:0 4px 8px 0 rgba(0,0,0,0.2),0 6px 20px 0 rgba(0,0,0,0.19);}\n/*# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIi9Vc2Vycy9wYXlhbXJhZmllZS9EZXNrdG9wL0hvbWUzNjAvd2ViL2NvbXBvbmVudHMvQmVuZWZpdHMuanMiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBa0lnQixBQUdzQixhQUNELFlBQ0QsV0FDRSxhQUMrRCxxRUFDOUUiLCJmaWxlIjoiL1VzZXJzL3BheWFtcmFmaWVlL0Rlc2t0b3AvSG9tZTM2MC93ZWIvY29tcG9uZW50cy9CZW5lZml0cy5qcyIsInNvdXJjZXNDb250ZW50IjpbImV4cG9ydCBkZWZhdWx0ICgpID0+IChcbiAgPHNlY3Rpb24+XG4gICAgPGRpdiBjbGFzc05hbWU9XCJyb3cgZC1mbGV4IGp1c3RpZnktY29udGVudC1hcm91bmRcIj5cbiAgICAgIDxkaXYgY2xhc3NOYW1lPVwiaXRlbSBiZy13aGl0ZSBkLWZsZXggZmxleC1jb2x1bW4gdGV4dC1ibGFja1wiPlxuICAgICAgICA8aSBjbGFzcz1cImZhcyBmYS1jbG9jayBmYS0zeCB0ZXh0LWRhcmsgdGV4dC1jZW50ZXJcIj48L2k+XG4gICAgICAgIDxkaXY+XG4gICAgICAgICAgPGg1IGNsYXNzTmFtZT1cInB5LTRcIj5cbiAgICAgICAgICAgIFNhdmUgdGltZVxuICAgICAgICAgIDwvaDU+XG4gICAgICAgICAgPHAgY2xhc3NOYW1lPVwidGV4dC1zZWNvbmRhcnlcIj5cbiAgICAgICAgICAgIFRoaXMgaXMgcHJvYmFibHkgdGhlIGJpZ2dlc3QgYmVuZWZpdCDigJMgdmlydHVhbFxuICAgICAgICAgICAgcmVhbGl0eSBzb2x1dGlvbnMgc2F2ZSB0aW1lIGZvciBib3RoIGNsaWVudHMgYW5kXG4gICAgICAgICAgICByZWFsdG9ycy4gVGhhbmtzIHRvIFZSLCB0aGVyZeKAmXMgbm8gbmVlZCB0byB0cmF2ZWxcbiAgICAgICAgICAgIGZyb20gb25lIHByb3BlcnR5IHRvIGFub3RoZXIgYW5kIHNpdCBpbiB0cmFmZmljXG4gICAgICAgICAgICBqYW1zLiBJbnN0ZWFkLCBjbGllbnRzIGNhbiBzaW1wbHkgcHV0IG9uIFZSXG4gICAgICAgICAgICBoZWFkc2V0cyBhbmQgZW5qb3kgaW1tZXJzaXZlIDNEXG4gICAgICAgICAgICB0b3Vycy5cbiAgICAgICAgICA8L3A+XG4gICAgICAgICAgPHAgY2xhc3NOYW1lPVwidGV4dC1zZWNvbmRhcnlcIj5cbiAgICAgICAgICAgIE1vcmVvdmVyLCB0aGUgdXNlIG9mIHZpcnR1YWwgcmVhbGl0eSBpbiByZWFsIGVzdGF0ZVxuICAgICAgICAgICAgbWVhbnMgdGhhdCBhbGwgbGlzdGVkIHByb3BlcnRpZXMgYXJlIG9wZW4gYXJvdW5kIHRoZVxuICAgICAgICAgICAgY2xvY2suIFdpdGggdGhlIGhlbHAgb2YgVlIgaGVhZHNldHMsIGhvbWVidXllcnMgY2FuXG4gICAgICAgICAgICB2aXNpdCBob3VzZXMgYW5kIGFwYXJ0bWVudHMgbGl0ZXJhbGx5IGFueSB0aW1lLCB3aXRob3V0XG4gICAgICAgICAgICByZWFsdG9ycyBuZWVkaW5nIHRvIHNwZW5kIGEgc2Vjb25kIG9mIHRoZWlyIHRpbWUuXG4gICAgICAgICAgPC9wPlxuICAgICAgICA8L2Rpdj5cbiAgICAgIDwvZGl2PlxuICAgICAgPGRpdiBjbGFzc05hbWU9XCJpdGVtIGJnLXdoaXRlIGQtZmxleCBmbGV4LWNvbHVtbiB0ZXh0LWJsYWNrXCI+XG4gICAgICAgIDxpIGNsYXNzPVwiZmFzIGZhLXNtaWxlIGZhLTN4IHRleHQtZGFyayB0ZXh0LWNlbnRlclwiPjwvaT5cbiAgICAgICAgPGRpdj5cbiAgICAgICAgICA8aDUgY2xhc3NOYW1lPVwicHktNFwiPlxuICAgICAgICAgICAgQnVpbGRzIEVtb3Rpb25hbCBDb25uZWN0aW9uc1xuICAgICAgICAgIDwvaDU+XG4gICAgICAgICAgPHAgY2xhc3NOYW1lPVwidGV4dC1zZWNvbmRhcnlcIj5cbiAgICAgICAgICAgIFZpcnR1YWwgdG91cnMgb2YgaG91c2VzIGFuZCBhcGFydG1lbnRzIGhlbHAgeW91clxuICAgICAgICAgICAgY2xpZW50cyB2aXN1YWxpemUgZWFjaCBwcm9wZXJ0eS4gVW5saWtlXG4gICAgICAgICAgICB0cmFkaXRpb25hbCB2aXNpdHMgd2hlbiBldmVyeW9uZSBpcyBpbiBhIGh1cnJ5LFxuICAgICAgICAgICAgcG90ZW50aWFsIGJ1eWVycyBjYW4gdGFrZSBWUiBob21lIHRvdXJzIGF0IGEgdGltZVxuICAgICAgICAgICAgdGhhdOKAmXMgY29udmVuaWVudCBhbmQgY2FuIGZvY3VzIHRoZWlyIGF0dGVudGlvblxuICAgICAgICAgICAgb24gZGV0YWlscy5cbiAgICAgICAgICA8L3A+XG4gICAgICAgICAgPHAgY2xhc3NOYW1lPVwidGV4dC1zZWNvbmRhcnlcIj5cbiAgICAgICAgICAgIEZ1bGwgaW1tZXJzaXZlbmVzcyBvZiB2aXJ0dWFsIGhvdXNlIHRvdXJzIGNyZWF0ZXNcbiAgICAgICAgICAgIGFuIGVtb3Rpb25hbCBjb25uZWN0aW9uIGFuZCBlbmdhZ2VzIGNsaWVudHMgYSBsb3RcbiAgICAgICAgICAgIG1vcmUgZWZmaWNpZW50bHkgdGhhbiBjb252ZW50aW9uYWwgMkQgaW1hZ2VzLFxuICAgICAgICAgICAgd2hpY2ggbWF5IGxvb2sgcXVpdGUgYSBiaXQgZGlmZmVyZW50IGZyb20gaG93IGFcbiAgICAgICAgICAgIHByb3BlcnR5IGxvb2tzIGluIHBlcnNvbi5cbiAgICAgICAgICA8L3A+XG4gICAgICAgIDwvZGl2PlxuICAgICAgPC9kaXY+XG5cbiAgICAgIDxkaXYgY2xhc3NOYW1lPVwiaXRlbSBiZy13aGl0ZSBkLWZsZXggZmxleC1jb2x1bW4gdGV4dC1ibGFja1wiPlxuICAgICAgICA8aSBjbGFzcz1cImZhcyBmYS1jaGFydC1hcmVhIGZhLTN4IHRleHQtZGFyayB0ZXh0LWNlbnRlclwiPjwvaT5cbiAgICAgICAgPGRpdj5cbiAgICAgICAgICA8aDUgY2xhc3NOYW1lPVwicHktNFwiPlxuICAgICAgICAgICAgUHJlZGljdGlvblxuICAgICAgICAgIDwvaDU+XG4gICAgICAgICAgPHAgY2xhc3NOYW1lPVwidGV4dC1zZWNvbmRhcnlcIj5cbiAgICAgICAgICAgIFdpdGggdGhlIGRhdGEgZ2l2ZW4gdG8gQUksIGl0IGNhbiBwcm92aWRlIHdpdGhcbiAgICAgICAgICAgIG1lYW5pbmdmdWwgcHJlZGljdGlvbnMgaW52b2x2aW5nIGN1c3RvbWVyIHByaW9yaXR5LlxuICAgICAgICAgICAgRm9yIGV4YW1wbGUsIGl0IGNhbiBwcmVkaWN0IHdoYXQgaXMgZ29pbmcgdG8gYmUgdGhlXG4gICAgICAgICAgICBwcmljZSBvZiBhbiBhcmVhIGJhc2VkIG9uIHRoZSBnZW9ncmFwaGljYWwgYXJlYSBhbmRcbiAgICAgICAgICAgIGJhc2VkIG9uIGZ1dHVyZSBkZXZlbG9wbWVudCBvciBwaHlzaWNhbCBjaGFuZ2VzIHRoYXRcbiAgICAgICAgICAgIHRoZSBhcmVhIG1pZ2h0IGdvIHRocm91Z2guIEl0IGNhbiBhbHNvIHByZWRpY3Qgd2hhdFxuICAgICAgICAgICAgYXJlYSBpcyBtb3JlIHByb25lIHRvIHRoZWZ0IG9yIG90aGVyIGNyaW1lcyBzaW5jZSBpdFxuICAgICAgICAgICAgaXMgYW4gaW1wb3J0YW50IGFzcGVjdCBmb3IgYW55b25lIHRvIGNvbnNpZGVyIHdoaWxlXG4gICAgICAgICAgICBidXlpbmcgb3IgcmVudGluZyBhIGhvbWUuXG4gICAgICAgICAgPC9wPlxuICAgICAgICA8L2Rpdj5cbiAgICAgIDwvZGl2PlxuXG4gICAgICA8ZGl2IGNsYXNzTmFtZT1cIml0ZW0gYmctd2hpdGUgZC1mbGV4IGZsZXgtY29sdW1uIHRleHQtYmxhY2tcIj5cbiAgICAgICAgPGkgY2xhc3M9XCJmYXMgZmEtZ2xvYmUtYW1lcmljYXMgZmEtM3ggdGV4dC1kYXJrIHRleHQtY2VudGVyXCI+PC9pPlxuICAgICAgICA8ZGl2PlxuICAgICAgICAgIDxoNSBjbGFzc05hbWU9XCJweS00XCI+XG4gICAgICAgICAgICBPZmZlcnMgR2xvYmFsIFJlYWNoXG4gICAgICAgICAgPC9oNT5cbiAgICAgICAgICA8cCBjbGFzc05hbWU9XCJ0ZXh0LXNlY29uZGFyeVwiPlxuICAgICAgICAgICAgVmlydHVhbCByZWFsaXR5IGNhbiBjaGFuZ2UgdGhpcy4gU2luY2UgbW9zdCBwcm9wZXJ0aWVzXG4gICAgICAgICAgICBjYW4gYmUgc2hvd24gdGhyb3VnaCB2aXJ0dWFsIHRvdXJzLCByZWFsdG9ycyBjYW4gd29ya1xuICAgICAgICAgICAgbW9yZSBwcm9kdWN0aXZlbHkuIEFsc28sIGl0IGRvZXNu4oCZdCBtYXR0ZXIgd2hlcmUgeW91clxuICAgICAgICAgICAgY2xpZW50cyBsaXZlLiBWUiBoZWxwcyB5b3Ugc2hvd2Nhc2UgcHJvcGVydGllcyBldmVuIHRvXG4gICAgICAgICAgICBsb25nLWRpc3RhbmNlIGJ1eWVycy4gT2YgY291cnNlLCB0aGlzIG1lYW5zIHlvdSBjYW4gd29ya1xuICAgICAgICAgICAgd2l0aCBtb3JlIGNsaWVudHMgYW5kIHByb2Nlc3MgbW9yZSBpbnF1aXJpZXMuXG4gICAgICAgICAgPC9wPlxuICAgICAgICA8L2Rpdj5cbiAgICAgIDwvZGl2PlxuICAgICAgPGRpdiBjbGFzc05hbWU9XCJpdGVtIGJnLXdoaXRlIGQtZmxleCBmbGV4LWNvbHVtbiB0ZXh0LWJsYWNrXCI+XG4gICAgICAgIDxpIGNsYXNzPVwiZmFzIGZhLWhhbmQtaG9sZGluZy11c2QgZmEtM3ggdGV4dC1kYXJrIHRleHQtY2VudGVyXCI+PC9pPlxuICAgICAgICA8ZGl2PlxuICAgICAgICAgIDxoNSBjbGFzc05hbWU9XCJweS00XCI+XG4gICAgICAgICAgICBTYXZlcyBNb25leVxuICAgICAgICAgIDwvaDU+XG4gICAgICAgICAgPHAgY2xhc3NOYW1lPVwidGV4dC1zZWNvbmRhcnlcIj5cbiAgICAgICAgICAgIERldmVsb3BpbmcgZmVhdHVyZS1yaWNoIDNEIHZpcnR1YWwgdG91cnMgbWF5IHNlZW1cbiAgICAgICAgICAgIGV4cGVuc2l2ZSwgYnV0IHRoaW5rIG9mIHRoZSBpbnZlc3RtZW50IGluXG4gICAgICAgICAgICB0cmFkaXRpb25hbCByZWFsIGVzdGF0ZSBtYXJrZXRpbmcuIE5vdCBvbmx5IGRvXG4gICAgICAgICAgICB5b3UgbmVlZCB0byBzdGFnZSBwcm9wZXJ0aWVzLCB5b3UgYWxzbyBuZWVkIHRvXG4gICAgICAgICAgICBwcm92aWRlIGhpZ2gtcXVhbGl0eSBwaWN0dXJlcyBhbmQgbG90cyBvZiBwcmludFxuICAgICAgICAgICAgbWF0ZXJpYWxzIChwYXJ0aWN1bGFybHkgZm9yIG5ldyBwcm9wZXJ0aWVzKS5cbiAgICAgICAgICA8L3A+XG4gICAgICAgICAgPHAgY2xhc3NOYW1lPVwidGV4dC1zZWNvbmRhcnlcIj5cbiAgICAgICAgICAgIFZpcnR1YWwgcmVhbGl0eSBoZWxwcyB5b3Ugc2F2ZSBhIGxvdCBvZiBtb25leSBieVxuICAgICAgICAgICAgdXNpbmcgdGhlIHBvd2VyIG9mIDM2MC1kZWdyZWUgdmlkZW9zIGFuZCBjb21wdXRlclxuICAgICAgICAgICAgZ3JhcGhpY3MuIFRvZGF5LCBtYWtpbmcgYSBndWlkZWQgdmlkZW8gdG91ciBhcm91bmRcbiAgICAgICAgICAgIGEgcHJvcGVydHkgcmVxdWlyZXMganVzdCBhIHBhbm9yYW1pYyBjYW1lcmEgYW5kXG4gICAgICAgICAgICBiYXNpYyByZW5kZXJpbmcuXG4gICAgICAgICAgPC9wPlxuICAgICAgICA8L2Rpdj5cbiAgICAgIDwvZGl2PlxuICAgICAgPGRpdiBjbGFzc05hbWU9XCJpdGVtIGJnLXdoaXRlIGQtZmxleCBmbGV4LWNvbHVtbiB0ZXh0LWJsYWNrXCI+XG4gICAgICAgIDxpIGNsYXNzPVwiZmFzIGZhLWtleSBmYS0zeCB0ZXh0LWRhcmsgdGV4dC1jZW50ZXJcIj48L2k+XG4gICAgICAgIDxkaXY+XG4gICAgICAgICAgPGg1IGNsYXNzTmFtZT1cInB5LTRcIj5cbiAgICAgICAgICAgIEluc3RhbnQgU2Vuc2Ugb2YgT3duZXJzaGlwXG4gICAgICAgICAgPC9oNT5cbiAgICAgICAgICA8cCBjbGFzc05hbWU9XCJ0ZXh0LXNlY29uZGFyeVwiPlxuICAgICAgICAgICAgWW91IGNhbiBlbmhhbmNlIHRoZSBjdXN0b21lciBleHBlcmllbmNlIGJ5IHByb3ZpZGluZ1xuICAgICAgICAgICAgdmlydHVhbCB0b3VycyB3aXRoIGxvdHMgb2YgaW50ZXJhY3RpdmUgYWRkLW9ucyBzdWNoXG4gICAgICAgICAgICBhcyBtb3J0Z2FnZSBjYWxjdWxhdG9ycywgaW5mb3JtYXRpb24gYWJvdXQgc2ltaWxhclxuICAgICAgICAgICAgcHJvcGVydGllcywgYW5kIGRlc2NyaXB0aW9ucyBvZiBuZWlnaGJvcmhvb2RzLiBUaGlzXG4gICAgICAgICAgICB3aWxsIGhlbHAgeW91ciBjbGllbnRzIGdldCBhbGwgdGhlIGluZm9ybWF0aW9uIHRoZXlcbiAgICAgICAgICAgIG5lZWQgYWJvdXQgcHJvcGVydGllcyBiZWZvcmUgY29udGFjdGluZyB5b3UgYW5kXG4gICAgICAgICAgICBhc2tpbmcgdG8gYXJyYW5nZSByZWFsIHZpc2l0cyBvZiBob3VzZXMgb3IgYXBhcnRtZW50c1xuICAgICAgICAgICAgdGhleSBsaWtlIG1vc3QuXG4gICAgICAgICAgPC9wPlxuICAgICAgICA8L2Rpdj5cbiAgICAgIDwvZGl2PlxuXG4gICAgPC9kaXY+XG4gICAgPHN0eWxlIGpzeD57YFxuICAgICAgLml0ZW0ge1xuICAgICAgICBoZWlnaHQ6IDUwMHB4O1xuICAgICAgICB3aWR0aDogMzcwcHg7O1xuICAgICAgICBtYXJnaW46IDVweDtcbiAgICAgICAgcGFkZGluZzogMjBweDtcbiAgICAgICAgYm94LXNoYWRvdzogMCA0cHggOHB4IDAgcmdiYSgwLCAwLCAwLCAwLjIpLCAwIDZweCAyMHB4IDAgcmdiYSgwLCAwLCAwLCAwLjE5KTtcbiAgICAgIH1cbiAgICBgfTwvc3R5bGU+XG4gIDwvc2VjdGlvbj5cbilcbiJdfQ== */\n/*@ sourceURL=/Users/payamrafiee/Desktop/Home360/web/components/Benefits.js */"));
+});
+
+/***/ }),
+
 /***/ "./components/Card.js":
 /*!****************************!*\
   !*** ./components/Card.js ***!
@@ -446,7 +722,7 @@ var Header = function Header() {
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(next_link__WEBPACK_IMPORTED_MODULE_1___default.a, {
-    href: "/about",
+    href: "/team",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 24
@@ -459,7 +735,7 @@ var Header = function Header() {
       lineNumber: 25
     },
     __self: this
-  }, "About", react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("span", {
+  }, "Team", react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("span", {
     className: "sr-only",
     __source: {
       fileName: _jsxFileName,
@@ -12258,12 +12534,14 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _components_Footer__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(/*! ../components/Footer */ "./components/Footer.js");
 /* harmony import */ var _components_Timeline__WEBPACK_IMPORTED_MODULE_8__ = __webpack_require__(/*! ../components/Timeline */ "./components/Timeline.js");
 /* harmony import */ var _components_Card__WEBPACK_IMPORTED_MODULE_9__ = __webpack_require__(/*! ../components/Card */ "./components/Card.js");
+/* harmony import */ var _components_Benefits__WEBPACK_IMPORTED_MODULE_10__ = __webpack_require__(/*! ../components/Benefits */ "./components/Benefits.js");
 
 
 
 
 
 var _jsxFileName = "/Users/payamrafiee/Desktop/Home360/web/pages/index.js";
+
 
 
 
@@ -12287,62 +12565,62 @@ function (_Component) {
       return react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("div", {
         __source: {
           fileName: _jsxFileName,
-          lineNumber: 11
+          lineNumber: 13
         },
         __self: this
       }, react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement(_components_Header__WEBPACK_IMPORTED_MODULE_6__["default"], {
         __source: {
           fileName: _jsxFileName,
-          lineNumber: 12
+          lineNumber: 14
         },
         __self: this
       }), react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("div", {
         className: "bg-light",
         __source: {
           fileName: _jsxFileName,
-          lineNumber: 13
+          lineNumber: 15
         },
         __self: this
       }, react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("div", {
         className: "container",
         __source: {
           fileName: _jsxFileName,
-          lineNumber: 14
+          lineNumber: 16
         },
         __self: this
       }, react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("section", {
         className: "row img-text",
         __source: {
           fileName: _jsxFileName,
-          lineNumber: 15
+          lineNumber: 17
         },
         __self: this
       }, react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("div", {
         className: "col-lg-6 d-flex flex-column justify-content-center",
         __source: {
           fileName: _jsxFileName,
-          lineNumber: 16
+          lineNumber: 18
         },
         __self: this
       }, react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("h1", {
         className: "display-4 text-black text-center text1",
         __source: {
           fileName: _jsxFileName,
-          lineNumber: 17
+          lineNumber: 19
         },
         __self: this
       }, "The smartest way to own your home"), react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("h5", {
         className: "text-black text-center mt-5 text2",
         __source: {
           fileName: _jsxFileName,
-          lineNumber: 20
+          lineNumber: 22
         },
         __self: this
       }, "Home360 utilizes the most cutting-edge technologies to facilitate buy/sell a house")), react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("div", {
         className: "d-flex align-items-center col-lg-6",
         __source: {
           fileName: _jsxFileName,
-          lineNumber: 24
+          lineNumber: 26
         },
         __self: this
       }, react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("img", {
@@ -12351,58 +12629,97 @@ function (_Component) {
         src: "../static/images/mn.jpg",
         __source: {
           fileName: _jsxFileName,
-          lineNumber: 25
+          lineNumber: 27
         },
         __self: this
       }))), react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("section", {
         className: "flex-column mt-5",
         __source: {
           fileName: _jsxFileName,
-          lineNumber: 29
+          lineNumber: 31
         },
         __self: this
       }, react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("div", {
         className: "mb-5",
         __source: {
           fileName: _jsxFileName,
-          lineNumber: 30
+          lineNumber: 32
         },
         __self: this
       }, react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("h3", {
         __source: {
           fileName: _jsxFileName,
-          lineNumber: 31
+          lineNumber: 33
         },
         __self: this
       }, "How it works?")), react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement(_components_Timeline__WEBPACK_IMPORTED_MODULE_8__["default"], {
         __source: {
           fileName: _jsxFileName,
-          lineNumber: 33
+          lineNumber: 35
         },
         __self: this
       })), react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("section", {
-        className: "mt-5 mb-5",
+        className: "mt-5",
         __source: {
           fileName: _jsxFileName,
-          lineNumber: 36
+          lineNumber: 38
         },
         __self: this
-      }, react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement(_components_Card__WEBPACK_IMPORTED_MODULE_9__["default"], {
+      }, react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("div", {
+        className: "mb-5",
         __source: {
           fileName: _jsxFileName,
-          lineNumber: 37
+          lineNumber: 39
+        },
+        __self: this
+      }, react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("h3", {
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 40
+        },
+        __self: this
+      }, "Our Technology:")), react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement(_components_Card__WEBPACK_IMPORTED_MODULE_9__["default"], {
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 42
+        },
+        __self: this
+      })), react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("section", {
+        className: "mt-5 pb-5",
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 45
+        },
+        __self: this
+      }, react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("div", {
+        className: "mb-5",
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 46
+        },
+        __self: this
+      }, react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("h3", {
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 47
+        },
+        __self: this
+      }, "Benefits from us:")), react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement(_components_Benefits__WEBPACK_IMPORTED_MODULE_10__["default"], {
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 49
         },
         __self: this
       })))), react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement(_components_Footer__WEBPACK_IMPORTED_MODULE_7__["default"], {
         __source: {
           fileName: _jsxFileName,
-          lineNumber: 43
+          lineNumber: 55
         },
         __self: this
       }), react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("style", {
         __source: {
           fileName: _jsxFileName,
-          lineNumber: 44
+          lineNumber: 56
         },
         __self: this
       }, "\n          .img-bg {\n            filter: grayscale(100%);\n            width: 100%;\n            height: 450px;\n            box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);\n          }\n\n          .img-text {\n            height: 85vh;\n          }\n\n          body {\n            font-family: Open Sans;\n          }\n\n          .text1 {\n            font-weight: 300;\n          }\n\n          .text2 {\n            font-weight: 400;\n\n          }\n\n          .text3 {\n            font-weight: 600;\n          }\n\n          h3 {\n            font-weight: 300;\n          }\n\n          .intro {\n            height: 90vh;\n          }\n\n          i {\n            color: #17a2bb;\n            color: white\n          }\n\n          .circle {\n            height: 200px;\n            width: 200px;\n            border-radius: 100px;\n            border: 2px solid white;\n          }\n\n        "));

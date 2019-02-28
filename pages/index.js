@@ -4,6 +4,8 @@ import Header from '../components/Header'
 import Footer from '../components/Footer'
 import Timeline from '../components/Timeline'
 import Card from '../components/Card'
+import Benefits from '../components/Benefits'
+
 class Home extends Component {
 
   render() {
@@ -33,8 +35,18 @@ class Home extends Component {
               <Timeline />
             </section>
 
-            <section className="mt-5 mb-5">
+            <section className="mt-5">
+              <div className="mb-5">
+                <h3>Our Technology:</ h3>
+              </div>
               <Card />
+            </section>
+
+            <section className="mt-5 pb-5">
+              <div className="mb-5">
+                <h3>Benefits from us:</ h3>
+              </div>
+              <Benefits />
             </section>
 
 
