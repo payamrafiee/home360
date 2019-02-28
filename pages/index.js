@@ -5,6 +5,7 @@ import Footer from '../components/Footer'
 import Timeline from '../components/Timeline'
 import Card from '../components/Card'
 import Benefits from '../components/Benefits'
+import Follow from '../components/Follow';
 
 class Home extends Component {
 
@@ -47,6 +48,13 @@ class Home extends Component {
                 <h3>Benefits from us:</ h3>
               </div>
               <Benefits />
+            </section>
+
+            <section className="mt-5 pb-5">
+              <div className="mb-5">
+                <h3>Follow us on:</ h3>
+              </div>
+              <Follow />
             </section>
 
 

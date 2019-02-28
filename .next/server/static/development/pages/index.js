@@ -616,6 +616,66 @@ var _jsxFileName = "/Users/payamrafiee/Desktop/Home360/web/components/Card.js";
 
 /***/ }),
 
+/***/ "./components/Follow.js":
+/*!******************************!*\
+  !*** ./components/Follow.js ***!
+  \******************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ "react");
+/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
+var _jsxFileName = "/Users/payamrafiee/Desktop/Home360/web/components/Follow.js";
+
+/* harmony default export */ __webpack_exports__["default"] = (function () {
+  return react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+    className: "row justify-content-center",
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 2
+    },
+    __self: this
+  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
+    href: "https://www.instagram.com/payam.rafiee/",
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 3
+    },
+    __self: this
+  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("i", {
+    class: "fab ic mx-3 fa-facebook-f fa-2x fb",
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 4
+    },
+    __self: this
+  })), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("i", {
+    class: "fab ic mx-3 fa-twitter fa-2x tw",
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 6
+    },
+    __self: this
+  }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("i", {
+    class: "fab ic mx-3 fa-instagram fa-2x ig",
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 7
+    },
+    __self: this
+  }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("style", {
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 8
+    },
+    __self: this
+  }, "\n      .ic:hover {\n        cursor: pointer\n      }\n\n      .fb {\n        color: #4267B2;\n      }\n\n      .tw {\n        color: #1BA1F1;\n      }\n      .ig {\n        color: #B93989;\n      }\n\n\n    "));
+});
+
+/***/ }),
+
 /***/ "./components/Footer.js":
 /*!******************************!*\
   !*** ./components/Footer.js ***!
@@ -3037,12 +3097,14 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _components_Timeline__WEBPACK_IMPORTED_MODULE_8__ = __webpack_require__(/*! ../components/Timeline */ "./components/Timeline.js");
 /* harmony import */ var _components_Card__WEBPACK_IMPORTED_MODULE_9__ = __webpack_require__(/*! ../components/Card */ "./components/Card.js");
 /* harmony import */ var _components_Benefits__WEBPACK_IMPORTED_MODULE_10__ = __webpack_require__(/*! ../components/Benefits */ "./components/Benefits.js");
+/* harmony import */ var _components_Follow__WEBPACK_IMPORTED_MODULE_11__ = __webpack_require__(/*! ../components/Follow */ "./components/Follow.js");
 
 
 
 
 
 var _jsxFileName = "/Users/payamrafiee/Desktop/Home360/web/pages/index.js";
+
 
 
 
@@ -3067,62 +3129,62 @@ function (_Component) {
       return react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("div", {
         __source: {
           fileName: _jsxFileName,
-          lineNumber: 13
+          lineNumber: 14
         },
         __self: this
       }, react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement(_components_Header__WEBPACK_IMPORTED_MODULE_6__["default"], {
         __source: {
           fileName: _jsxFileName,
-          lineNumber: 14
+          lineNumber: 15
         },
         __self: this
       }), react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("div", {
         className: "bg-light",
         __source: {
           fileName: _jsxFileName,
-          lineNumber: 15
+          lineNumber: 16
         },
         __self: this
       }, react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("div", {
         className: "container",
         __source: {
           fileName: _jsxFileName,
-          lineNumber: 16
+          lineNumber: 17
         },
         __self: this
       }, react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("section", {
         className: "row img-text",
         __source: {
           fileName: _jsxFileName,
-          lineNumber: 17
+          lineNumber: 18
         },
         __self: this
       }, react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("div", {
         className: "col-lg-6 d-flex flex-column justify-content-center",
         __source: {
           fileName: _jsxFileName,
-          lineNumber: 18
+          lineNumber: 19
         },
         __self: this
       }, react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("h1", {
         className: "display-4 text-black text-center text1",
         __source: {
           fileName: _jsxFileName,
-          lineNumber: 19
+          lineNumber: 20
         },
         __self: this
       }, "The smartest way to own your home"), react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("h5", {
         className: "text-black text-center mt-5 text2",
         __source: {
           fileName: _jsxFileName,
-          lineNumber: 22
+          lineNumber: 23
         },
         __self: this
       }, "Home360 utilizes the most cutting-edge technologies to facilitate buy/sell a house")), react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("div", {
         className: "d-flex align-items-center col-lg-6",
         __source: {
           fileName: _jsxFileName,
-          lineNumber: 26
+          lineNumber: 27
         },
         __self: this
       }, react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("img", {
@@ -3131,97 +3193,123 @@ function (_Component) {
         src: "../static/images/mn.jpg",
         __source: {
           fileName: _jsxFileName,
-          lineNumber: 27
+          lineNumber: 28
         },
         __self: this
       }))), react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("section", {
         className: "flex-column mt-5",
         __source: {
           fileName: _jsxFileName,
-          lineNumber: 31
+          lineNumber: 32
         },
         __self: this
       }, react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("div", {
         className: "mb-5",
         __source: {
           fileName: _jsxFileName,
-          lineNumber: 32
+          lineNumber: 33
         },
         __self: this
       }, react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("h3", {
         __source: {
           fileName: _jsxFileName,
-          lineNumber: 33
+          lineNumber: 34
         },
         __self: this
       }, "How it works?")), react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement(_components_Timeline__WEBPACK_IMPORTED_MODULE_8__["default"], {
         __source: {
           fileName: _jsxFileName,
-          lineNumber: 35
+          lineNumber: 36
         },
         __self: this
       })), react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("section", {
         className: "mt-5",
         __source: {
           fileName: _jsxFileName,
-          lineNumber: 38
+          lineNumber: 39
         },
         __self: this
       }, react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("div", {
         className: "mb-5",
         __source: {
           fileName: _jsxFileName,
-          lineNumber: 39
+          lineNumber: 40
         },
         __self: this
       }, react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("h3", {
         __source: {
           fileName: _jsxFileName,
-          lineNumber: 40
+          lineNumber: 41
         },
         __self: this
       }, "Our Technology:")), react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement(_components_Card__WEBPACK_IMPORTED_MODULE_9__["default"], {
         __source: {
           fileName: _jsxFileName,
-          lineNumber: 42
+          lineNumber: 43
         },
         __self: this
       })), react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("section", {
         className: "mt-5 pb-5",
         __source: {
           fileName: _jsxFileName,
-          lineNumber: 45
+          lineNumber: 46
         },
         __self: this
       }, react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("div", {
         className: "mb-5",
         __source: {
           fileName: _jsxFileName,
-          lineNumber: 46
+          lineNumber: 47
         },
         __self: this
       }, react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("h3", {
         __source: {
           fileName: _jsxFileName,
-          lineNumber: 47
+          lineNumber: 48
         },
         __self: this
       }, "Benefits from us:")), react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement(_components_Benefits__WEBPACK_IMPORTED_MODULE_10__["default"], {
         __source: {
           fileName: _jsxFileName,
-          lineNumber: 49
+          lineNumber: 50
         },
         __self: this
-      })))), react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement(_components_Footer__WEBPACK_IMPORTED_MODULE_7__["default"], {
+      })), react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("section", {
+        className: "mt-5 pb-5",
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 53
+        },
+        __self: this
+      }, react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("div", {
+        className: "mb-5",
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 54
+        },
+        __self: this
+      }, react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("h3", {
         __source: {
           fileName: _jsxFileName,
           lineNumber: 55
         },
         __self: this
+      }, "Follow us on:")), react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement(_components_Follow__WEBPACK_IMPORTED_MODULE_11__["default"], {
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 57
+        },
+        __self: this
+      })))), react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement(_components_Footer__WEBPACK_IMPORTED_MODULE_7__["default"], {
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 63
+        },
+        __self: this
       }), react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("style", {
         __source: {
           fileName: _jsxFileName,
-          lineNumber: 56
+          lineNumber: 64
         },
         __self: this
       }, "\n          .img-bg {\n            filter: grayscale(100%);\n            width: 100%;\n            height: 450px;\n            box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);\n          }\n\n          .img-text {\n            height: 85vh;\n          }\n\n          body {\n            font-family: Open Sans;\n          }\n\n          .text1 {\n            font-weight: 300;\n          }\n\n          .text2 {\n            font-weight: 400;\n\n          }\n\n          .text3 {\n            font-weight: 600;\n          }\n\n          h3 {\n            font-weight: 300;\n          }\n\n          .intro {\n            height: 90vh;\n          }\n\n          i {\n            color: #17a2bb;\n            color: white\n          }\n\n          .circle {\n            height: 200px;\n            width: 200px;\n            border-radius: 100px;\n            border: 2px solid white;\n          }\n\n        "));
