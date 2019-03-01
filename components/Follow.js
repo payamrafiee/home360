@@ -1,10 +1,10 @@
 export default () => (
   <div className="row justify-content-center">
     <a href="https://www.instagram.com/payam.rafiee/">
-      <i class="fab ic mx-3 fa-facebook-f fa-2x fb"></i>
+      <i className="fab ic mx-3 fa-facebook-f fa-2x fb"></i>
     </a>
-    <i class="fab ic mx-3 fa-twitter fa-2x tw"></i>
-    <i class="fab ic mx-3 fa-instagram fa-2x ig"></i>
+    <i className="fab ic mx-3 fa-twitter fa-2x tw"></i>
+    <i className="fab ic mx-3 fa-instagram fa-2x ig"></i>
     <style>{`
       .ic:hover {
         cursor: pointer

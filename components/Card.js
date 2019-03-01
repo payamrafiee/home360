@@ -2,7 +2,7 @@ export default () => (
   <section>
     <div className="row">
       <div className="page1 d-flex justify-content-start align-items-center col-lg-6">
-        <div className="box1 ml-5 px-4 py-4">
+        <div className="box1 px-4 ml-lg-5 px-lg-5 py-4">
           <h2 className="text1">
             Advance Analytics
           </h2>
@@ -16,17 +16,17 @@ export default () => (
           </p>
         </div>
       </div>
-      <div className="d-flex align-items-center col-lg-6">
+      <div className="d-flex mt-3 mt-lg-0 col-lg-6">
         <img className="img-fluid imgg1" style={{height: '400px', width: '100%'}} src="../static/images/analytics.jpg"/>
       </div>
     </div>
 
     <div className="row mt-5">
-      <div className="d-flex align-items-center col-lg-6">
+      <div className="d-flex mt-3 mt-lg-0 col-lg-6 order-2 order-lg-1">
         <img className="img-fluid imgg2" style={{height: '400px', width: '100%'}} src="../static/images/360.jpg"/>
       </div>
-      <div className="page2 d-flex justify-content-end align-items-center col-lg-6">
-        <div className="box2 mr-5 px-4 py-4">
+      <div className="page2 d-flex justify-content-end align-items-center col-lg-6 order-1 order-lg-2">
+        <div className="box2 mr-lg-5 px-lg-5 px-4 py-4">
           <h2 className="text1">
             360 View
           </h2>
@@ -47,7 +47,7 @@ export default () => (
 
     <div className="row mt-5">
       <div className="page1 d-flex justify-content-start align-items-center col-lg-6">
-        <div className="box1 ml-5 px-4 py-4">
+        <div className="box1 px-4 ml-lg-5 px-lg-5 py-4">
           <h2 className="text1">
             Heat map
           </h2>
@@ -62,17 +62,17 @@ export default () => (
           </p>
         </div>
       </div>
-      <div className="d-flex align-items-center col-lg-6">
+      <div className="d-flex mt-3 mt-lg-0 col-lg-6">
         <img className="img-fluid imgg1" style={{height: '400px', width: '100%'}} src="../static/images/heatmap.png"/>
       </div>
     </div>
 
     <div className="row mt-5">
-      <div className="d-flex align-items-center col-lg-6">
+      <div className="d-flex mt-3 mt-lg-0 order-2 order-lg-1 col-lg-6">
         <img className="img-fluid imgg2" style={{height: '400px', width: '100%'}} src="../static/images/notification.jpg"/>
       </div>
-      <div className="page2 d-flex justify-content-end align-items-center col-lg-6">
-        <div className="box2 mr-5 px-4 py-4">
+      <div className="page2 d-flex justify-content-end align-items-center col-lg-6 order-1 order-lg-2">
+        <div className="box2 mr-lg-5 px-lg-5 px-4 py-4">
           <h2 className="text1">
             Smart Notification
           </h2>
@@ -86,22 +86,29 @@ export default () => (
       </div>
     </div>
     <style>{`
+      @media (min-width: 960px) {
+        .imgg1 {
+          position: absolute;
+          top: 50px;
+          right: 40px;
+        }
+
+        .imgg2 {
+          position: absolute;
+          top: 50px;
+          left: 40px;
+          z-index: 1;
+        }
+      }
+
       .page1 {
         height: 500px;
         background: white;
         box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
       }
 
-      .imgg1 {
-        position: absolute;
-        top: 50px;
-        right: 75px;
-      }
-
       .box1 {
-        width: 70%;
         height: 70%;
-        // background: pink;
         border-left: 2px solid black;
       }
 
@@ -111,17 +118,8 @@ export default () => (
         box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
       }
 
-      .imgg2 {
-        position: absolute;
-        top: 50px;
-        left: 75px;
-        z-index: 1;
-      }
-
       .box2 {
-        width: 70%;
         height: 70%;
-        // background: pink;
         border-right: 2px solid black;
       }
     `}</style>

@@ -16,15 +16,15 @@ class Home extends Component {
         <div className="bg-light">
           <div className="container">
             <section className="row img-text">
-              <div className="col-lg-6 d-flex flex-column justify-content-center">
-                <h1 className="display-4 text-black text-center text1">
+              <div className="col-md-6 text-content d-flex flex-column justify-content-center">
+                <h1 className=" text-black text-center text1">
                   The smartest way to own your home
                 </h1>
                 <h5 className="text-black text-center mt-5 text2">
                   Home360 utilizes the most cutting-edge technologies to facilitate buy/sell a house
                 </h5>
               </div>
-              <div className="d-flex align-items-center col-lg-6">
+              <div className="d-flex align-items-center col-md-6">
                 <img className="img-bg img-fluid" alt="Responsive image" src="../static/images/mn.jpg" />
               </div>
             </section>
@@ -108,6 +108,28 @@ class Home extends Component {
             width: 200px;
             border-radius: 100px;
             border: 2px solid white;
+          }
+
+          @media (max-width: 768px) {
+            h1 {
+                font-size: 2rem;
+            }
+
+            h5 {
+                font-size: 1rem;
+            }
+
+            h2 {
+              font-size: 1.8rem;
+            }
+
+            .text-content {
+              height: 400px;
+            }
+
+            .img-text {
+              margin-bottom: 350px;
+            }
           }
 
         `}</style>

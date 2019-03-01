@@ -37,7 +37,7 @@ export default () => (
           </div>
         </div>
       </div>
-      <div className="row justify-content-around">
+      {/* <div className="row justify-content-around">
         <div className="d-flex text-black align-items-center justify-content-center circle">
           1
         </div>
@@ -50,7 +50,7 @@ export default () => (
         <div className="d-flex text-black align-items-center justify-content-center circle">
           4
         </div>
-      </div>
+      </div> */}
     </div>
     <style jsx>{`
       .circle {

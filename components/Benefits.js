@@ -2,7 +2,7 @@ export default () => (
   <section>
     <div className="row d-flex justify-content-around">
       <div className="item bg-white d-flex flex-column text-black">
-        <i class="fas fa-clock fa-3x text-dark text-center"></i>
+        <i className="fas fa-clock fa-3x text-dark text-center"></i>
         <div>
           <h5 className="py-4">
             Save time
@@ -26,7 +26,7 @@ export default () => (
         </div>
       </div>
       <div className="item bg-white d-flex flex-column text-black">
-        <i class="fas fa-smile fa-3x text-dark text-center"></i>
+        <i className="fas fa-smile fa-3x text-dark text-center"></i>
         <div>
           <h5 className="py-4">
             Builds Emotional Connections
@@ -50,7 +50,7 @@ export default () => (
       </div>
 
       <div className="item bg-white d-flex flex-column text-black">
-        <i class="fas fa-chart-area fa-3x text-dark text-center"></i>
+        <i className="fas fa-chart-area fa-3x text-dark text-center"></i>
         <div>
           <h5 className="py-4">
             Prediction
@@ -70,7 +70,7 @@ export default () => (
       </div>
 
       <div className="item bg-white d-flex flex-column text-black">
-        <i class="fas fa-globe-americas fa-3x text-dark text-center"></i>
+        <i className="fas fa-globe-americas fa-3x text-dark text-center"></i>
         <div>
           <h5 className="py-4">
             Offers Global Reach
@@ -86,7 +86,7 @@ export default () => (
         </div>
       </div>
       <div className="item bg-white d-flex flex-column text-black">
-        <i class="fas fa-hand-holding-usd fa-3x text-dark text-center"></i>
+        <i className="fas fa-hand-holding-usd fa-3x text-dark text-center"></i>
         <div>
           <h5 className="py-4">
             Saves Money
@@ -109,7 +109,7 @@ export default () => (
         </div>
       </div>
       <div className="item bg-white d-flex flex-column text-black">
-        <i class="fas fa-key fa-3x text-dark text-center"></i>
+        <i className="fas fa-key fa-3x text-dark text-center"></i>
         <div>
           <h5 className="py-4">
             Instant Sense of Ownership
